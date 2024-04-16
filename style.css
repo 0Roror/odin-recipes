@@ -1,0 +1,11 @@
+html {
+    background-color: rgba(225, 230, 173, 0.329);
+}
+h1 {
+    font-size: 70px;
+    color: rgb(50, 108, 50);
+    text-decoration: underline;
+}
+.item {
+    font-size: 30px;
+}
